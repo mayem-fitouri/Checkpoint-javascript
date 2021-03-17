@@ -1,0 +1,14 @@
+.icon-left{
+    color: aqua;
+    font-size: 30px;
+}
+.card{
+    margin: auto;
+}
+.title-class{
+    color: red;
+}
+.icon-right{
+    color:red;
+    padding-left:200px
+}
